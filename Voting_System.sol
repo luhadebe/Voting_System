@@ -1,5 +1,5 @@
 // Specifies the license type for the code
-/ SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 
 // Declares the Solidity version required to compile this contract
 pragma solidity ^0.8.0;
